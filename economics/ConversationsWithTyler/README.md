@@ -1,4 +1,5 @@
-#Conversations with Tyler
+# Conversations with Tyler
+
 [*Conversations with Tyler*](https://conversationswithtyler.com/) is a non typical interview podcast from Tyler Cowen of GMU.
 What makes this podcast unique is that Tyler extensively studies the material about the subject of the interview and is able to get almost every
 interviewee to break out of their normal rehearsed material and engage in a meaningful conversation. Tyler has broad interests and makes sure to 
